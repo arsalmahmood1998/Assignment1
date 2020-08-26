@@ -1,6 +1,5 @@
 
 public class GravityCalculator {
-
 	public static void main(String[] args) {
 		double gravity = -9.81;
 		double initialVelocity = 0.0;
